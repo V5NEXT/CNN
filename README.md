@@ -14,3 +14,4 @@ Training Set: 60000
 Testing Set: 10000 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 
 Best Model Training Accuracy : 97%
+Pertured Test Set : 85%
