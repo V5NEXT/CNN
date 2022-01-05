@@ -2,7 +2,7 @@
 Convolutional Neural Networks
 
 
-A basic Introduction in setting up a convoluted Neural network for predicting Fashion MNIST dataset using keras
+A basic Introduction in setting up a convoluted Neural network for predicting Fashion MNIST dataset using keras. 
 
 
 #Key Stats 
@@ -15,3 +15,4 @@ Testing Set: 10000 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress',
 
 Best Model Training Accuracy : 97%
 Pertured Test Set : 85%
+
