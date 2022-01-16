@@ -1,5 +1,5 @@
 # CNN
-Convolutional Neural Networks
+Convolutional Neural Networks - Predicting Fashion Mnist
 
 
 This is a basic introduction in setting up a convoluted Neural network for predicting Fashion MNIST dataset using keras. 
