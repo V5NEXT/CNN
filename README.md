@@ -5,7 +5,7 @@ Convolutional Neural Networks
 This is a basic introduction in setting up a convoluted Neural network for predicting Fashion MNIST dataset using keras. 
 
 
-#Key Stats 
+#Key Stats from the study
 
 About Dataset
 Name: Fashion-MNIST (from keras) This dataset consists of 70,000 images of handwritten digits from 0–9.
